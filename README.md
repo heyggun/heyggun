@@ -3,9 +3,8 @@
  
 **Introduction**
 
-안녕하세요. 사용자가 긍정적인 경험을 느낄 수 있게 하자라는 목표로 AI 모델을 개발합니다. </br>
-서비스 속 제가 만든 기술을 적용해 안정적이고 긍정적인 사용자 경험을 제공하고 싶습니다. </br>
-추천 시스템, 자연어처리에 관심이 많습니다. 
+서비스 속 제가 만든 AI 기술을 적용해 안정적이고 긍정적인 사용자 경험을 제공하고 싶습니다. </br>
+부족하지만 부단히 노력 중입니다. 추천 시스템, 자연어처리에 관심이 많습니다. 
 
 [resume](https://www.notion.so/kimgeonhee/Machine-Learning-Engineer-a25dce5c1e6f44209cc58cc66be87e5f)
 [velog](https://velog.io/@heyggun )
