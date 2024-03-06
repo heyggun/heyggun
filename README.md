@@ -10,5 +10,5 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 
-[resume](https://www.notion.so/kimgeonhee/Machine-Learning-Engineer-a25dce5c1e6f44209cc58cc66be87e5f)
+[resume](https://kimgeonhee.notion.site/AI-engineer-398aaf7c5e5e42688dbee1273078c844?pvs=4)
 [velog](https://velog.io/@heyggun )
