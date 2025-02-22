@@ -11,7 +11,7 @@ AI 연구와 개발을 결합하여 실제로 활용 가능한 솔루션을 만�
 
 **Skills**
 
-<img src="https://simpleicons.org/icons/langchain.svg" alt="LangChain Icon" width="30" height="30"/> <img src="https://simpleicons.org/icons/fastapi.svg" alt="FastAPI Icon" width="30" height="30"/> </br>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 
 [resume](https://kimgeonhee.notion.site/AI-engineer-398aaf7c5e5e42688dbee1273078c844?pvs=4)
